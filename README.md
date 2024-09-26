@@ -1,4 +1,4 @@
-![logo](https://github.com/jay-dave1/jay-dave1/blob/main/JAY%20DAVE.png)
+![logo](https://github.com/jay-dave1/jay-dave1/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hello 👋, I'm Jay Dave</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
